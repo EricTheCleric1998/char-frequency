@@ -1,0 +1,4 @@
+This is an example od the kind of text that can appear in a text file.
+Many characters may appear. Mostly letters in lower or upper CASE.
+A lower case a and an upper case A should count as the same character.
+THere could also be special characters like ! * = + @ etc.
